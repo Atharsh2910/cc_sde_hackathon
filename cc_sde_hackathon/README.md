@@ -1,4 +1,4 @@
-               The proposed “Event Management Tracking System" streamlines the event flow by tackling the above-mentioned problems and enhances the entire field of event management.
+               The proposed “Event Management Tracking System" streamlines the event flow by tackling the problems and enhances the entire field of event management.
 •	The system provides the users with “Unique Digital Identifier” at the time of registration. The UDI generated using pseudo-random generator, provides each user with a hash-based “Colour Grid with Embedded Code” that could be scanned during the onboarding to mark the attendance. 
 •	Each UDI would be mapped with the user details like name, mail-id, phone number and other detail.
 •	These details are stored in a csv file that could be accessed and controlled by the organizers.
